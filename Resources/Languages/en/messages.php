@@ -1,11 +1,11 @@
 <?php
-
-return [
-
-    'user' => [
-        'profile' => [
-            'update' => 'You have changed your user profile.',
-        ],
-    ],
-
-];
+	
+	return [
+		
+		'user' => [
+			'profile' => [
+				'update' => 'You have changed your user profile.',
+			],
+		],
+	
+	];

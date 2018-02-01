@@ -1,8 +1,8 @@
 {
-  "name": "apiato/activitylog",
-  "license" : "MIT",
-  "description": "ActivityLog Container for apiato.",
-  "require": {
-    "spatie/laravel-activitylog" : "^2.0"
-  }
+	"name" : "apiato/activitylog",
+	"license" : "MIT",
+	"description" : "ActivityLog Container for apiato.",
+	"require" : {
+		"spatie/laravel-activitylog" : "^2.0"
+	}
 }
